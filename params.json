@@ -1,6 +1,6 @@
 {
   "name": "안녕하세요!!!",
   "tagline": "",
-  "body": "### 준비를 해볼께요.",
+  "body": "안녕하세요!\r\n==========\r\n\r\n만나서 반가워요.\r\n뭔가 재미있는 일이 없을까? 생각하다가 준비해본 프로젝트에요.\r\n\r\n### 이건 뭐죠?\r\n\r\n우리는 늘 무언가를 시도해보려다 실패한적이 많았죠.\r\n늘 우린 너무 느리고 지체된 결정에, 포기한적이 많았죠.\r\n그래서 빠르게(agile) 무언가를 해보자고 생각했죠.\r\n> 형식을 벗어난 형식이 무언가를 만들어 낼수 있지 않을까요?\r\n\r\n### 뭘 해야하나요?\r\n\r\n반복된 시간에 약속잡힌 회의는 피곤하죠. 할 이야기도 없고, 늘 같은 자리를 맴도는 이야기들.\r\n우리는 닌자처럼 행동 해야해요.\r\n\r\n  - 결사단 : 모임은 단 한번뿐, 임무를 완수 못하더라도 재시도는 없다.\r\n  - 수련 : 미션은 찰나 지만, 훈련이 결과를 판가름 한다.\r\n  - 콤비네이션 : 각자 행동하지만, 늘 상대를 예의주시 한다.\r\n  - 날개 : 날기위해 무거운것은 언제든 버리도록 하라.\r\n  \r\n### 무얼 준비해야 하죠?\r\n\r\n형식이 없는 닌자라할지라도, 기본기가 필요합니다.\r\n임무에 필요한것은..\r\n  - git : one branch. 작고빠른 commit. \r\n  - javascript base anything.\r\n  - hangout\r\n\r\n### 무엇을 준비하지 말까요?\r\n남은 시간이 부족합니다! 더욱 빠르게!\r\n  - no DataBase. (API는 가능)\r\n  - build 의 최소화. 각종 Devops.\r\n  - no issue. no document. code is docu!\r\n\r\n### 무얼 할까요?\r\n주어진 시간은 단지 몇시간.\r\n임무의 결과를 바로 보여줄수 있어야 해요.\r\n첫번째 카타를 시작해 볼까요?\r\n  - 3시간을 리미트로 한다.\r\n  - 인원수는 3-5로 제한한다.\r\n  - 공통회의는 15분으로 제한한다.\r\n  - 남은 2시간 30분은 자유롭게 미션을 수행한다.\r\n  - 마지막 15분 리뷰.\r\n    - 리액트를 이용해 게임을 만들어 본다.\r\n    - 사다리 게임.\r\n    - todoList 만들기.\r\n  - [http://playkata.github.io/2048-react/](http://playkata.github.io/2048-react/)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
